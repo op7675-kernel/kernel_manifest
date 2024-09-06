@@ -60,5 +60,5 @@
     <linkfile dest="kernel_platform/build/build-tools/sysroot" src="sysroot"/>
   </project>
   <include name="kernel.xml" />
-  <include name="modules.xml" />
+  <!-- <include name="modules.xml" /> -->
 </manifest>
